@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Oliver Forral, a software engineer with a passion for building stuff.
+
+- 🔭 I’m currently working on [tutorials](./tutorials/tutorials.md)
+
 <!--
 **intrepion/intrepion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
