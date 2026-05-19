@@ -1,4 +1,4 @@
-[Tutorials](../../../tutorials.md) > [nvm](../nvm.md) > nvm Install
+[Tutorials](../../../tutorials.md) > [Tools](../../tools.md) > [nvm](../nvm.md) > nvm Install
 
 # nvm Install
 

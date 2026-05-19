@@ -1,4 +1,4 @@
-[Tutorials](../../tutorials.md) > Android Studio
+[Tutorials](../../tutorials.md) > [Tools](../tools.md) > Android Studio
 
 # Android Studio
 

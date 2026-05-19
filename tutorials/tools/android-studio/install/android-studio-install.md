@@ -1,4 +1,4 @@
-[Tutorials](../../../tutorials.md) > [Android Studio](../android-studio.md) > Android Studio Install
+[Tutorials](../../../tutorials.md) > [Tools](../../tools.md) > [Android Studio](../android-studio.md) > Android Studio Install
 
 # Android Studio Install
 

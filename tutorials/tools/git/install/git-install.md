@@ -1,4 +1,4 @@
-[Tutorials](../../../tutorials.md) > [git](../git.md) > git Install
+[Tutorials](../../../tutorials.md) > [Tools](../../tools.md) > [git](../git.md) > git Install
 
 # git Install
 

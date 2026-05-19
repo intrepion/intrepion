@@ -1,10 +1,10 @@
-[Tutorials](../../../../tutorials.md) > [Bash](../../bash.md) > [Bash Install](../bash-install.md) > Bash Install macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [Bash](../../bash.md) > [Bash Install](../bash-install.md) > Bash Install macOS
 
 # Bash Install macOS
 
 ## Requirements
 
-- [Homebrew](./../../../homebrew/install/macos/homebrew-install-macos.md)
+- [Homebrew](../../../homebrew/install/macos/homebrew-install-macos.md)
 
 ## Install
 

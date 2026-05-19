@@ -1,10 +1,10 @@
-[Tutorials](../../../../tutorials.md) > [CocoaPods](../../cocoapods.md) > [CocoaPods Install](../cocoapods-install.md) > CocoaPods Install macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [CocoaPods](../../cocoapods.md) > [CocoaPods Install](../cocoapods-install.md) > CocoaPods Install macOS
 
 # CocoaPods Install macOS
 
 ## Requirements
 
-- [Homebrew](./../../../homebrew/install/macos/homebrew-install-macos.md)
+- [Homebrew](../../../homebrew/install/macos/homebrew-install-macos.md)
 
 ## Install
 

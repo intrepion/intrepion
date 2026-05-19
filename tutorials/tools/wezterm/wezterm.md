@@ -1,4 +1,4 @@
-[Tutorials](../../tutorials.md) > WezTerm
+[Tutorials](../../tutorials.md) > [Tools](../tools.md) > WezTerm
 
 # WezTerm
 

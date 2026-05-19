@@ -1,4 +1,4 @@
-[Tutorials](../../tutorials.md) > Xcode Command Line Tools
+[Tutorials](../../tutorials.md) > [Tools](../tools.md) > Xcode Command Line Tools
 
 # Xcode Command Line Tools
 

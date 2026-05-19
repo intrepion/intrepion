@@ -1,4 +1,4 @@
-[Tutorials](../../tutorials.md) > nvm
+[Tutorials](../../tutorials.md) > [Tools](../tools.md) > nvm
 
 # nvm
 

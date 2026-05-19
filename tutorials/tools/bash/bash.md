@@ -1,4 +1,4 @@
-[Tutorials](../../tutorials.md) > Bash
+[Tutorials](../../tutorials.md) > [Tools](../tools.md) > Bash
 
 # Bash
 

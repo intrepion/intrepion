@@ -1,4 +1,4 @@
-[Tutorials](../../tutorials.md) > CocoaPods
+[Tutorials](../../tutorials.md) > [Tools](../tools.md) > CocoaPods
 
 # CocoaPods
 

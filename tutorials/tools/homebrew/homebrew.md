@@ -1,4 +1,4 @@
-[Tutorials](../../tutorials.md) > Homebrew
+[Tutorials](../../tutorials.md) > [Tools](../tools.md) > Homebrew
 
 # Homebrew
 

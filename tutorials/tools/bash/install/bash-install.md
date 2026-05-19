@@ -1,4 +1,4 @@
-[Tutorials](../../../tutorials.md) > [Bash](../bash.md) > Bash Install
+[Tutorials](../../../tutorials.md) > [Tools](../../tools.md) > [Bash](../bash.md) > Bash Install
 
 # Bash Install
 

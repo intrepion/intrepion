@@ -1,10 +1,10 @@
-[Tutorials](../../../../tutorials.md) > [Android Studio](../../android-studio.md) > [Android Studio Install](../android-studio-install.md) > Android Studio Install macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [Android Studio](../../android-studio.md) > [Android Studio Install](../android-studio-install.md) > Android Studio Install macOS
 
 # Android Studio Install macOS
 
 ## Requirements
 
-- [Homebrew](./../../../homebrew/install/macos/homebrew-install-macos.md)
+- [Homebrew](../../../homebrew/install/macos/homebrew-install-macos.md)
 
 ## Install
 

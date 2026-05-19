@@ -1,4 +1,4 @@
-[Tutorials](../../../tutorials.md) > [WezTerm](../wezterm.md) > WezTerm Install
+[Tutorials](../../../tutorials.md) > [Tools](../../tools.md) > [WezTerm](../wezterm.md) > WezTerm Install
 
 # WezTerm Install
 

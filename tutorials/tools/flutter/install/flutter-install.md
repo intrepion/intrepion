@@ -1,4 +1,4 @@
-[Tutorials](../../../tutorials.md) > [Flutter](../flutter.md) > Flutter Install
+[Tutorials](../../../tutorials.md) > [Tools](../../tools.md) > [Flutter](../flutter.md) > Flutter Install
 
 # Flutter Install
 

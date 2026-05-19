@@ -1,4 +1,4 @@
-[Tutorials](../../tutorials.md) > git
+[Tutorials](../../tutorials.md) > [Tools](../tools.md) > git
 
 # git
 

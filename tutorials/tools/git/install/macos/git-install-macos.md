@@ -1,10 +1,10 @@
-[Tutorials](../../../../tutorials.md) > [git](../../git.md) > [git Install](../git-install.md) > git Install macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [git](../../git.md) > [git Install](../git-install.md) > git Install macOS
 
 # git Install macOS
 
 ## Requirements
 
-- [Homebrew](./../../../homebrew/install/macos/homebrew-install-macos.md)
+- [Homebrew](../../../homebrew/install/macos/homebrew-install-macos.md)
 
 ## Install
 

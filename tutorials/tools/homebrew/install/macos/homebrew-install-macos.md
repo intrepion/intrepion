@@ -1,4 +1,4 @@
-[Tutorials](../../../../tutorials.md) > [Homebrew](../../homebrew.md) > [Homebrew Install](../homebrew-install.md) > Homebrew Install macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [Homebrew](../../homebrew.md) > [Homebrew Install](../homebrew-install.md) > Homebrew Install macOS
 
 # Homebrew Install macOS
 

@@ -1,4 +1,4 @@
-[Tutorials](../../../../tutorials.md) > [Rust](../../rust.md) > [Rust Install](../rust-install.md) > Rust Install macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [Rust](../../rust.md) > [Rust Install](../rust-install.md) > Rust Install macOS
 
 # Rust Install macOS
 

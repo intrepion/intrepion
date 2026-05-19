@@ -1,4 +1,4 @@
-[Tutorials](../../tutorials.md) > Rust
+[Tutorials](../../tutorials.md) > [Tools](../tools.md) > Rust
 
 # Rust
 

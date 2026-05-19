@@ -1,4 +1,4 @@
-[Tutorials](../../../../tutorials.md) > [nvm](../../nvm.md) > [nvm Install](../nvm-install.md) > nvm Install macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [nvm](../../nvm.md) > [nvm Install](../nvm-install.md) > nvm Install macOS
 
 # nvm Install macOS
 
