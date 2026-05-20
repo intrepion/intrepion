@@ -19,8 +19,11 @@ rustfmt --version
 should be something like
 
 ```text
+$ cargo --version
 cargo 1.95.0 (f2d3ce0bd 2026-03-21)
+$ rustc --version
 rustc 1.95.0 (59807616e 2026-04-14)
+$ rustfmt --version
 rustfmt 1.9.0-stable (59807616e1 2026-04-14)
 ```
 

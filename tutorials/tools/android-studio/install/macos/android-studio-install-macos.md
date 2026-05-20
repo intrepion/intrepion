@@ -52,11 +52,14 @@ ls ~/Library/Android/sdk
 should include something like
 
 ```text
+$ ls ~/Library/Android/sdk
 build-tools
 cmdline-tools
 emulator
+licenses
 platform-tools
 platforms
+sources
 ```
 
 ## Check Android SDK Command Line Tools

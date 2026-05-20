@@ -10,5 +10,6 @@
 - [Homebrew](./homebrew/homebrew.md)
 - [nvm](./nvm/nvm.md)
 - [Rust](./rust/rust.md)
+- [Visual Studio Code](./visual-studio-code/visual-studio-code.md)
 - [WezTerm](./wezterm/wezterm.md)
 - [Xcode Command Line Tools](./xcode-command-line-tools/xcode-command-line-tools.md)

@@ -21,5 +21,6 @@ which pod
 should be something like
 
 ```text
+$ which bod
 /opt/homebrew/bin/pod
 ```

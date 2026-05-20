@@ -43,6 +43,8 @@ which dart
 should be something like
 
 ```text
+$ which flutter
 /opt/homebrew/bin/flutter
+$ which dart
 /opt/homebrew/bin/dart
 ```
