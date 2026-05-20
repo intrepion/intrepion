@@ -43,6 +43,8 @@ rustc-ice-*.txt
 ```bash
 cargo new hello_cargo
 cd hello_cargo
+cargo check
 cargo test
+cargo build
 cargo run
 ```
