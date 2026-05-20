@@ -41,18 +41,7 @@ rustc-ice-*.txt
 ```
 
 ```bash
-touch main.rs
-vi main.rs
-```
-
-```rust
-fn main() {}
-```
-
-```text
-<Esc>:x
-```
-
-```bash
-rustc main.rs
+cargo new hello_cargo
+cargo build
+./target/debug/hello_cargo
 ```
