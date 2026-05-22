@@ -6,3 +6,4 @@
 
 - [Adapters](./adapters/code-rust-solutions-hello-world-adapters.md)
 - [Library](./library/code-rust-solutions-hello-world-library.md)
+

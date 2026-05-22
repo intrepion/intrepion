@@ -7,9 +7,10 @@
 - [CocoaPods](./cocoapods/cocoapods.md)
 - [Flutter](./flutter/flutter.md)
 - [git](./git/git.md)
-- [Helix](./helix/helix.md)
 - [Homebrew](./homebrew/homebrew.md)
+- [Neovim](./neovim/neovim.md)
 - [nvm](./nvm/nvm.md)
 - [Rust](./rust/rust.md)
 - [WezTerm](./wezterm/wezterm.md)
 - [Xcode Command Line Tools](./xcode-command-line-tools/xcode-command-line-tools.md)
+

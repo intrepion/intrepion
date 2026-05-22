@@ -29,8 +29,8 @@ Build #AI-253.32098.37.2534.15336583
 ### Previous
 
 - Narwhal | 2025.1.1
-- Arctic Fox | 2020.3.1
 
 ## Navigation
 
 - [Install](./install/android-studio-install.md)
+

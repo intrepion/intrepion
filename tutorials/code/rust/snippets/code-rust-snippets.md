@@ -5,3 +5,4 @@
 ## Navigation
 
 - [.gitignore](./gitignore/code-rust-snippets-gitignore.md)
+

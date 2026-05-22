@@ -27,8 +27,8 @@ git version 2.54.0
 ### Previous
 
 - v1.9.5 (Wed Dec 17 11:22:32 2014 -0800)
-- v0.99.9 (Sat Oct 29 14:35:11 2005 -0700)
 
 ## Navigation
 
 - [Install](./install/git-install.md)
+

@@ -10,3 +10,4 @@ printf '#### BEGIN https://raw.githubusercontent.com/github/gitignore/refs/heads
 curl -sSL https://raw.githubusercontent.com/github/gitignore/refs/heads/main/Rust.gitignore >> .gitignore
 printf '#### END https://raw.githubusercontent.com/github/gitignore/refs/heads/main/Rust.gitignore\n' >> .gitignore
 ```
+

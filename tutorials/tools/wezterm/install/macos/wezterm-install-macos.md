@@ -11,3 +11,4 @@
 ```bash
 brew install --cask wezterm
 ```
+

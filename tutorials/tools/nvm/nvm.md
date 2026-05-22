@@ -20,6 +20,9 @@ nvm --version
 
 ### Previous
 
+- v0.39.7 (Tue Dec 5 21:50:27 2023 -0800)
+
 ## Navigation
 
 - [Install](./install/nvm-install.md)
+

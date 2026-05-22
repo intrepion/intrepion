@@ -35,9 +35,8 @@ Dart SDK version: 3.12.0 (stable) (Fri May 8 01:51:14 2026 -0700) on "macos_arm6
 ### Previous
 
 - flutter-2.8-candidate.20 (Thu Jan 6 18:36:24 2022 -0800)
-- flutter-1.27-candidate.15 (Tue Mar 23 08:11:58 2021 -0700)
-- flutter-0.42-candidate.0 (Tue Apr 8 09:45:16 2025 -0700)
 
 ## Navigation
 
 - [Install](./install/flutter-install.md)
+
