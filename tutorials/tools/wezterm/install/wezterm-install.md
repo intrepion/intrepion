@@ -1,7 +1,7 @@
-[Tutorials](../../../tutorials.md) > [Tools](../../tools.md) > [WezTerm](../wezterm.md) > WezTerm Install
+[Tutorials](../../../tutorials.md) > [Tools](../../tools.md) > [WezTerm](../wezterm.md) > Install
 
 # WezTerm Install
 
 ## Navigation
 
-- [WezTerm macOS](./macos/wezterm-install-macos.md)
+- [macOS](./macos/wezterm-install-macos.md)

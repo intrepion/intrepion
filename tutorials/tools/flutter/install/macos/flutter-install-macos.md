@@ -1,4 +1,4 @@
-[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [Flutter](../../flutter.md) > [Flutter Install](../flutter-install.md) > Flutter Install macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [Flutter](../../flutter.md) > [Install](../flutter-install.md) > macOS
 
 # Flutter Install macOS
 

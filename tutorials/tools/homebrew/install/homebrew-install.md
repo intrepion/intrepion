@@ -1,7 +1,7 @@
-[Tutorials](../../../tutorials.md) > [Tools](../../tools.md) > [Homebrew](../homebrew.md) > Homebrew Install
+[Tutorials](../../../tutorials.md) > [Tools](../../tools.md) > [Homebrew](../homebrew.md) > Install
 
 # Homebrew Install
 
 ## Navigation
 
-- [Homebrew Install macOS](./macos/homebrew-install-macos.md)
+- [macOS](./macos/homebrew-install-macos.md)

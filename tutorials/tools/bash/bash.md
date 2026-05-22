@@ -35,4 +35,4 @@ There is NO WARRANTY, to the extent permitted by law.
 
 ## Navigation
 
-- [Bash Install](./install/bash-install.md)
+- [Install](./install/bash-install.md)

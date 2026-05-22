@@ -28,4 +28,4 @@ brew --version
 
 ## Navigation
 
-- [Homebrew Install](./install/homebrew-install.md)
+- [Install](./install/homebrew-install.md)

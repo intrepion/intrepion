@@ -1,4 +1,4 @@
-[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [Xcode Command Line Tools](../../xcode-command-line-tools.md) > [Xcode Command Line Tools Install](../xcode-command-line-tools-install.md) > Xcode Command Line Tools Install macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [Xcode Command Line Tools](../../xcode-command-line-tools.md) > [Install](../xcode-command-line-tools-install.md) > macOS
 
 # Xcode Command Line Tools Install macOS
 

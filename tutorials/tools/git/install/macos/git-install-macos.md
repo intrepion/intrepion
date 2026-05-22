@@ -1,4 +1,4 @@
-[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [git](../../git.md) > [git Install](../git-install.md) > git Install macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [git](../../git.md) > [Install](../git-install.md) > macOS
 
 # git Install macOS
 

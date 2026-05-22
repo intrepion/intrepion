@@ -31,4 +31,4 @@ $ pod --version
 
 ## Navigation
 
-- [CocoaPods Install](./install/cocoapods-install.md)
+- [Install](./install/cocoapods-install.md)

@@ -1,4 +1,4 @@
-[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [CocoaPods](../../cocoapods.md) > [CocoaPods Install](../cocoapods-install.md) > CocoaPods Install macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [CocoaPods](../../cocoapods.md) > [Install](../cocoapods-install.md) > macOS
 
 # CocoaPods Install macOS
 

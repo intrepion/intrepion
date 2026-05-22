@@ -1,7 +1,7 @@
-[Tutorials](../../../tutorials.md) > [Tools](../../tools.md) > [Android Studio](../android-studio.md) > Android Studio Install
+[Tutorials](../../../tutorials.md) > [Tools](../../tools.md) > [Android Studio](../android-studio.md) > Install
 
 # Android Studio Install
 
 ## Navigation
 
-- [Android Studio Install macOS](./macos/android-studio-install-macos.md)
+- [macOS](./macos/android-studio-install-macos.md)

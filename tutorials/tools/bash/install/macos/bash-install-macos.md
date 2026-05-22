@@ -1,4 +1,4 @@
-[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [Bash](../../bash.md) > [Bash Install](../bash-install.md) > Bash Install macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [Bash](../../bash.md) > [Install](../bash-install.md) > macOS
 
 # Bash Install macOS
 

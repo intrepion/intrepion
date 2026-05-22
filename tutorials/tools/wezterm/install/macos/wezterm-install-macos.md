@@ -1,4 +1,4 @@
-[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [WezTerm](../../wezterm.md) > [WezTerm Install](../wezterm-install.md) > WezTerm Install macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [WezTerm](../../wezterm.md) > [Install](../wezterm-install.md) > macOS
 
 # WezTerm Install macOS
 

@@ -33,4 +33,4 @@ arm64
 
 ## Navigation
 
-- [Visual Studio Code Install](./install/visual-studio-code-install.md)
+- [Install](./install/visual-studio-code-install.md)

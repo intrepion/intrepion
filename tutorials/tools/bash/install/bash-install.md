@@ -1,7 +1,7 @@
-[Tutorials](../../../tutorials.md) > [Tools](../../tools.md) > [Bash](../bash.md) > Bash Install
+[Tutorials](../../../tutorials.md) > [Tools](../../tools.md) > [Bash](../bash.md) > Install
 
 # Bash Install
 
 ## Navigation
 
-- [Bash Install macOS](./macos/bash-install-macos.md)
+- [macOS](./macos/bash-install-macos.md)

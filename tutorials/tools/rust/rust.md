@@ -37,4 +37,4 @@ rustfmt 1.9.0-stable (59807616e1 2026-04-14)
 
 ## Navigation
 
-- [rust Install](./install/rust-install.md)
+- [Install](./install/rust-install.md)

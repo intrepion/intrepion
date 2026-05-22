@@ -1,4 +1,4 @@
-[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [Visual Studio Code](../../visual-studio-code.md) > [Visual Studio Code Install](../visual-studio-code-install.md) > Visual Studio Code Install macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [Visual Studio Code](../../visual-studio-code.md) > [Install](../visual-studio-code-install.md) > macOS
 
 # Visual Studio Code Install macOS
 

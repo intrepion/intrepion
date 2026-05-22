@@ -33,4 +33,4 @@ Build #AI-253.32098.37.2534.15336583
 
 ## Navigation
 
-- [Android Studio Install](./install/android-studio-install.md)
+- [Install](./install/android-studio-install.md)

@@ -22,4 +22,4 @@ nvm --version
 
 ## Navigation
 
-- [nvm Install](./install/nvm-install.md)
+- [Install](./install/nvm-install.md)

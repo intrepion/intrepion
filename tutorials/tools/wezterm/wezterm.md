@@ -34,4 +34,4 @@ wezterm 20240203-110809-5046fc22
 
 ## Navigation
 
-- [WezTerm Install](./install/wezterm-install.md)
+- [Install](./install/wezterm-install.md)

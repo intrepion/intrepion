@@ -31,4 +31,4 @@ git version 2.54.0
 
 ## Navigation
 
-- [git Install](./install/git-install.md)
+- [Install](./install/git-install.md)
