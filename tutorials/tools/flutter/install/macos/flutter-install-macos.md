@@ -48,4 +48,3 @@ $ which flutter
 $ which dart
 /opt/homebrew/bin/dart
 ```
-

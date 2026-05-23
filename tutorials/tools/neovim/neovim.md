@@ -36,4 +36,3 @@ Run "nvim -V1 -v" for more info
 ## Navigation
 
 - [Install](./install/neovim-install.md)
-

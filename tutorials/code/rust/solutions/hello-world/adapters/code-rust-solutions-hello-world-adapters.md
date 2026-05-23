@@ -5,4 +5,3 @@
 ## Navigation
 
 - [CLI](./cli/code-rust-solutions-hello-world-adapters-cli.md)
-

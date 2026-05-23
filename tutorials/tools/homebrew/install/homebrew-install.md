@@ -5,4 +5,3 @@
 ## Navigation
 
 - [macOS](./macos/homebrew-install-macos.md)
-

@@ -5,4 +5,3 @@
 ## Navigation
 
 - [macOS](./macos/xcode-command-line-tools-install-macos.md)
-

@@ -19,4 +19,3 @@ should be something like
 ```text
 /Users/oliverforral/.nvm/nvm.sh
 ```
-

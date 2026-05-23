@@ -23,4 +23,3 @@ should be something like
 ```text
 /opt/homebrew/bin/git
 ```
-

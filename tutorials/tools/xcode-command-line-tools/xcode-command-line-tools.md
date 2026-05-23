@@ -40,4 +40,3 @@ install-time: 1778955493
 ## Navigation
 
 - [Install](./install/xcode-command-line-tools-install.md)
-

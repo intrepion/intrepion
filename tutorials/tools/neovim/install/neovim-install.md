@@ -5,4 +5,3 @@
 ## Navigation
 
 - [macOS](./macos/neovim-install-macos.md)
-

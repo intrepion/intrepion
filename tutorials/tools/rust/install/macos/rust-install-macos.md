@@ -30,4 +30,3 @@ $ which rustc
 $ which rustfmt
 /Users/oliverforral/.cargo/bin/rustfmt
 ```
-

@@ -5,4 +5,3 @@
 ## Navigation
 
 - [macOS](./macos/wezterm-install-macos.md)
-

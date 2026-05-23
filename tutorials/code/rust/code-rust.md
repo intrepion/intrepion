@@ -4,4 +4,3 @@
 
 - [Snippets](./snippets/code-rust-snippets.md)
 - [Solutions](./solutions/code-rust-solutions.md)
-

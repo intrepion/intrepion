@@ -5,4 +5,3 @@
 ## Navigation
 
 - [Rust](./rust/code-rust.md)
-

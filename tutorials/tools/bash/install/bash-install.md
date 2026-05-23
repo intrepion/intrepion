@@ -5,4 +5,3 @@
 ## Navigation
 
 - [macOS](./macos/bash-install-macos.md)
-
