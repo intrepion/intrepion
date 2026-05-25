@@ -12,5 +12,6 @@
 - [Neovim](./neovim/tools-neovim.md)
 - [nvm](./nvm/tools-nvm.md)
 - [Rust](./rust/tools-rust.md)
+- [SpacetimeDB](./spacetimedb/tools-spacetimedb.md)
 - [WezTerm](./wezterm/tools-wezterm.md)
 - [Xcode Command Line Tools](./xcode-command-line-tools/tools-xcode-command-line-tools.md)

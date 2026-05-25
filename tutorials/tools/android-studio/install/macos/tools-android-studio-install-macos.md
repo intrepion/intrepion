@@ -75,20 +75,6 @@ $ ls ~/Library/Android/sdk/cmdline-tools/latest/bin/sdkmanager
 /Users/oliverforral/Library/Android/sdk/cmdline-tools/latest/bin/sdkmanager
 ```
 
-## Check Version
-
-```bash
-studio --version
-```
-
-should be something like
-
-```text
-$ studio --version
-Android Studio Panda 4 | 2025.3.4 Patch 1
-Build #AI-253.32098.37.2534.15336583
-```
-
 ## Check Location
 
 ```bash
