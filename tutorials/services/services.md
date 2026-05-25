@@ -4,4 +4,4 @@
 
 ## Navigation
 
-- [GitHub](./github/github.md)
+- [GitHub](./github/services-github.md)

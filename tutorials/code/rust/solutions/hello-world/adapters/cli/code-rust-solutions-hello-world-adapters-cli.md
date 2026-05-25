@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- [Tools Rust Install macOS](../../../../../../tools/rust/install/macos/rust-install-macos.md)
+- [Tools Rust Install macOS](../../../../../../tools/rust/install/macos/tools-rust-install-macos.md)
 
 ## Code
 
