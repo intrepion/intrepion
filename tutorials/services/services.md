@@ -4,4 +4,4 @@
 
 ## Navigation
 
-- [GitHub](./github/services-github.md)
+- [SSH](./github/services-ssh.md)
