@@ -12,29 +12,29 @@
 ## Versions
 
 ```bash
-flutter --version
 dart --version
+flutter --version
 ```
 
 should be something like
 
 ```text
-$ flutter --version
-Flutter 3.44.0 • channel stable • https://github.com/flutter/flutter.git
-Framework • revision 559ffa3f75 (3 days ago) • 2026-05-15 14:13:13 -0700
-Engine • hash fcf463a2242790d1fdcd9d044f533080f5022e18 (revision 4c525dac5e) (3 days ago) • 2026-05-15 19:00:04.000Z
-Tools • Dart 3.12.0 • DevTools 2.57.0
 $ dart --version
-Dart SDK version: 3.12.0 (stable) (Fri May 8 01:51:14 2026 -0700) on "macos_arm64"
+Dart SDK version: 3.12.1 (stable) (Tue May 26 01:02:21 2026 -0700) on "macos_arm64"
+$ flutter --version
+Flutter 3.44.1 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision 924134a44c (6 days ago) • 2026-05-29 12:13:22 -0400
+Engine • hash 39b1f7043775b9578bbb26a1676e79c4e31c8b5e (revision c416acfeb8) (7 days ago) • 2026-05-27 20:19:31.000Z
+Tools • Dart 3.12.1 • DevTools 2.57.0
 ```
 
 ### Current
 
-- flutter-3.44-candidate.0 (Fri May 15 14:13:13 2026 -0700)
+- 3.44.1 (Fri May 29 12:13:22 2026 -0400)
 
 ### Previous
 
-- flutter-2.8-candidate.20 (Thu Jan 6 18:36:24 2022 -0800)
+- 2.8.1 (Thu Dec 16 08:37:33 2021 -0800)
 
 ## Navigation
 

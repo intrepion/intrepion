@@ -8,6 +8,12 @@
 curl -sSf https://install.spacetimedb.com | sh
 ```
 
+## Update
+
+```bash
+spacetime version upgrade
+```
+
 ## Check Location
 
 ```bash

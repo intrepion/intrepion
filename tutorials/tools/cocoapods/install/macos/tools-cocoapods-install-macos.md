@@ -12,6 +12,12 @@
 brew install cocoapods
 ```
 
+## Update
+
+```bash
+brew upgrade cocoapods
+```
+
 ## Check Location
 
 ```bash

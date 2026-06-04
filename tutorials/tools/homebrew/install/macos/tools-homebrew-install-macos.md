@@ -8,7 +8,7 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-## Update all package definitions (formulae) and Homebrew itself
+## Update
 
 ```bash
 brew update
@@ -35,5 +35,6 @@ which brew
 should be something like
 
 ```text
+$ which brew
 /opt/homebrew/bin/brew
 ```

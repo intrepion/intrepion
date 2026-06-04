@@ -12,6 +12,12 @@
 brew install --cask visual-studio-code
 ```
 
+## Update
+
+```bash
+brew upgrade --cask visual-studio-code
+```
+
 ## Install Shell Command
 
 Open Visual Studio Code and run `Shell Command: Install 'code' command in PATH` from the Command Palette.

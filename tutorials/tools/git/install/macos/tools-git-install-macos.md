@@ -12,6 +12,12 @@
 brew install git
 ```
 
+## Update
+
+```bash
+brew upgrade git
+```
+
 ## Check Location
 
 ```bash
@@ -21,5 +27,6 @@ which git
 should be something like
 
 ```text
+$ which git
 /opt/homebrew/bin/git
 ```

@@ -30,6 +30,12 @@ echo $SHELL
 echo $BASH_VERSION
 ```
 
+## Update
+
+```bash
+brew upgrade bash
+```
+
 ## Check Location
 
 ```bash

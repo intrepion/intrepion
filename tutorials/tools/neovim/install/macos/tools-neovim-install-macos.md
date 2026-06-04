@@ -12,6 +12,12 @@
 brew install neovim
 ```
 
+## Update
+
+```bash
+brew upgrade neovim
+```
+
 ## Check Location
 
 ```bash

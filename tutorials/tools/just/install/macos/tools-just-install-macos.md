@@ -12,6 +12,12 @@
 brew install just
 ```
 
+## Update
+
+```bash
+brew upgrade just
+```
+
 ## Check Location
 
 ```bash

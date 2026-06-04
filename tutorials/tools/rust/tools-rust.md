@@ -20,16 +20,16 @@ should be something like
 
 ```text
 $ cargo --version
-cargo 1.95.0 (f2d3ce0bd 2026-03-21)
+cargo 1.96.0 (30a34c682 2026-05-25)
 $ rustc --version
-rustc 1.95.0 (59807616e 2026-04-14)
+rustc 1.96.0 (ac68faa20 2026-05-25)
 $ rustfmt --version
-rustfmt 1.9.0-stable (59807616e1 2026-04-14)
+rustfmt 1.9.0-stable (ac68faa20c 2026-05-25)
 ```
 
 ### Current
 
-- 1.95.0 (Tue Apr 14 19:55:32 2026 +0000)
+- 1.96.0 (Mon May 25 23:21:07 2026 +0000)
 
 ### Previous
 

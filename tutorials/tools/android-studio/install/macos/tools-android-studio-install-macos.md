@@ -12,6 +12,12 @@
 brew install --cask android-studio
 ```
 
+## Update
+
+```bash
+brew upgrade --cask android-studio
+```
+
 ## Setup
 
 Open Android Studio and complete the Setup Wizard.

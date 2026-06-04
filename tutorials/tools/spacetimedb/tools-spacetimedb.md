@@ -20,13 +20,13 @@ should be something like
 ```text
 $ spacetime --version
 spacetime Path: /Users/oliverforral/.local/share/spacetime/bin/current/spacetimedb-cli
-Commit: eb11e2f5c41dce6979715ad407996270d61329f6
-spacetimedb tool version 2.2.0; spacetimedb-lib version 2.2.0;
+Commit: b3547448cf06d65c5133e884c9a24f126f92eb12
+spacetimedb tool version 2.4.0; spacetimedb-lib version 2.4.0;
 ```
 
 ### Current
 
-- v2.2.0 (Thu Apr 30 14:24:41 2026 -0500)
+- v2.4.0 (Tue Jun 2 11:08:43 2026 -0700)
 
 ### Previous
 

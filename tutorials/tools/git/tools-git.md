@@ -17,6 +17,7 @@ git --version
 should be
 
 ```text
+$ git --version
 git version 2.54.0
 ```
 

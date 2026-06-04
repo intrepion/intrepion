@@ -18,7 +18,7 @@ should be something like
 
 ```text
 $ bash --version
-GNU bash, version 5.3.9(1)-release (aarch64-apple-darwin25.1.0)
+GNU bash, version 5.3.12(1)-release (aarch64-apple-darwin25.4.0)
 Copyright (C) 2025 Free Software Foundation, Inc.
 License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
 

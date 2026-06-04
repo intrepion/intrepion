@@ -8,6 +8,10 @@
 xcode-select --install
 ```
 
+## Update
+
+Open `System Settings > General > Software Update` and install available Command Line Tools updates.
+
 ## Check Location
 
 ```bash

@@ -12,6 +12,12 @@
 brew install --cask dotnet-sdk
 ```
 
+## Update
+
+```bash
+brew upgrade --cask dotnet-sdk
+```
+
 ## Check Location
 
 ```bash

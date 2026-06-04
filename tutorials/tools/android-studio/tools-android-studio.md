@@ -18,17 +18,17 @@ should be something like
 
 ```text
 $ studio --version
-Android Studio Panda 4 | 2025.3.4 Patch 1
-Build #AI-253.32098.37.2534.15336583
+Android Studio Quail 1 | 2026.1.1
+Build #AI-261.23567.138.2611.15503007
 ```
 
 ### Current
 
-- Panda 4 | 2025.3.4 Patch 1 (May 2026)
+- Android Studio Quail 1 | 2026.1.1
 
 ### Previous
 
-- Narwhal | 2025.1.1
+- Android Studio Narwhal 4 Feature Drop | 2025.1.4 (October 2025)
 
 ## Navigation
 

@@ -15,6 +15,12 @@
 brew install --cask flutter
 ```
 
+## Update
+
+```bash
+brew upgrade --cask flutter
+```
+
 ## Configure Flutter Android SDK Location
 
 ```bash

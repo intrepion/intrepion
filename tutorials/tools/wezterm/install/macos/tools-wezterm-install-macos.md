@@ -12,15 +12,21 @@
 brew install --cask wezterm
 ```
 
+## Update
+
+```bash
+brew upgrade --cask wezterm
+```
+
 ## Check Location
 
 ```bash
-which code
+which wezterm
 ```
 
 should be something like
 
 ```text
-$ which code
-/usr/local/bin/code
+$ which wezterm
+/usr/local/bin/wezterm
 ```
