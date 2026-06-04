@@ -21,5 +21,6 @@ which nvim
 should be something like
 
 ```text
+$ which nvim
 /opt/homebrew/bin/nvim
 ```

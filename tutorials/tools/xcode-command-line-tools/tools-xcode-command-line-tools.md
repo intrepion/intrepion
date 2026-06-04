@@ -12,21 +12,21 @@
 ## Versions
 
 ```bash
-xcode-select --version
 pkgutil --pkg-info=com.apple.pkg.CLTools_Executables
+xcode-select --version
 ```
 
 should be something like
 
 ```text
-$ xcode-select --version
-xcode-select version 2416.
 $ pkgutil --pkg-info=com.apple.pkg.CLTools_Executables
 package-id: com.apple.pkg.CLTools_Executables
 version: 26.5.0.0.1777544298
 volume: /
 location: /
 install-time: 1778955493
+$ xcode-select --version
+xcode-select version 2416.
 ```
 
 ### Current

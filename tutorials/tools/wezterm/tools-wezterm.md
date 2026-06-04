@@ -17,6 +17,7 @@ wezterm --version
 should be
 
 ```text
+$ wezterm --version
 wezterm 20240203-110809-5046fc22
 ```
 

@@ -39,5 +39,6 @@ which bash
 should be something like
 
 ```text
+$ which bash
 /opt/homebrew/bin/bash
 ```

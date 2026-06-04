@@ -17,5 +17,6 @@ which spacetime
 should be something like
 
 ```text
+$ which spacetime
 /Users/oliverforral/.local/bin/spacetime
 ```

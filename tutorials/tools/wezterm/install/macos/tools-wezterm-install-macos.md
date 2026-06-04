@@ -11,3 +11,16 @@
 ```bash
 brew install --cask wezterm
 ```
+
+## Check Location
+
+```bash
+which code
+```
+
+should be something like
+
+```text
+$ which code
+/usr/local/bin/code
+```

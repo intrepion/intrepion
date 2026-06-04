@@ -14,6 +14,13 @@
 nvm --version
 ```
 
+should be something like
+
+```text
+$ nvm --version
+0.40.4
+```
+
 ### Current
 
 - v0.40.4 (Thu Jan 29 14:12:03 2026 -0800)

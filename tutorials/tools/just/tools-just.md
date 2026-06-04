@@ -18,6 +18,7 @@ just --version
 should be something like
 
 ```text
+$ just --version
 just 1.51.0
 ```
 

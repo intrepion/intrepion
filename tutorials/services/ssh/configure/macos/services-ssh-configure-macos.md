@@ -1,6 +1,6 @@
-[Tutorials](../../../../tutorials.md) > [Services](../../../services.md) > [SSH](../../services-ssh.md) > [Configure](../services-github-configure.md) > macOS
+[Tutorials](../../../../tutorials.md) > [Services](../../../services.md) > [SSH](../../services-ssh.md) > [Configure](../services-ssh-configure.md) > macOS
 
-# Services GitHub Configure macOS
+# Services SSH Configure macOS
 
 ## Configure
 

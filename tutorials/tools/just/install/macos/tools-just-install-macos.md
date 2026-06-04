@@ -21,5 +21,6 @@ which just
 should be something like
 
 ```text
+$ which just
 /opt/homebrew/bin/just
 ```
