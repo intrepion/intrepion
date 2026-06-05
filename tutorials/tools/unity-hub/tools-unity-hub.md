@@ -24,13 +24,11 @@ kMDItemVersion = "3.18.0"
 
 ### Current
 
-- 3.18.0
+- 3.18.0 (May 6, 2026)
 
 ### Previous
 
-- 3.16.4 (Mon Mar 16 2026)
-- 3.16.3 (Tue Feb 24 2026)
-- 3.16.2 (Thu Feb 5 2026)
+- 2.4.3 (Mar. 16, 2021)
 
 ## Navigation
 
