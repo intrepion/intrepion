@@ -33,3 +33,4 @@ just 1.51.0
 ## Navigation
 
 - [Install](./install/tools-just-install.md)
+- [Uninstall](./uninstall/tools-just-uninstall.md)

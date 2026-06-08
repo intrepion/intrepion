@@ -34,3 +34,4 @@ arm64
 ## Navigation
 
 - [Install](./install/tools-visual-studio-code-install.md)
+- [Uninstall](./uninstall/tools-visual-studio-code-uninstall.md)

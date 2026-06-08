@@ -32,3 +32,4 @@ wezterm 20240203-110809-5046fc22
 ## Navigation
 
 - [Install](./install/tools-wezterm-install.md)
+- [Uninstall](./uninstall/tools-wezterm-uninstall.md)

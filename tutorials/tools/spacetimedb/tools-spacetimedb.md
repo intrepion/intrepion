@@ -35,3 +35,4 @@ spacetimedb tool version 2.4.0; spacetimedb-lib version 2.4.0;
 ## Navigation
 
 - [Install](./install/tools-spacetimedb-install.md)
+- [Uninstall](./uninstall/tools-spacetimedb-uninstall.md)

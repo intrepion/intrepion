@@ -32,3 +32,4 @@ git version 2.54.0
 ## Navigation
 
 - [Install](./install/tools-git-install.md)
+- [Uninstall](./uninstall/tools-git-uninstall.md)

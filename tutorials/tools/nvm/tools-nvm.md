@@ -32,3 +32,4 @@ $ nvm --version
 ## Navigation
 
 - [Install](./install/tools-nvm-install.md)
+- [Uninstall](./uninstall/tools-nvm-uninstall.md)

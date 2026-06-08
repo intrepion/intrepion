@@ -40,3 +40,4 @@ xcode-select version 2416.
 ## Navigation
 
 - [Install](./install/tools-xcode-command-line-tools-install.md)
+- [Uninstall](./uninstall/tools-xcode-command-line-tools-uninstall.md)

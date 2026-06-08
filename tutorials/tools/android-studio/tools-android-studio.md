@@ -33,3 +33,4 @@ Build #AI-261.23567.138.2611.15503007
 ## Navigation
 
 - [Install](./install/tools-android-studio-install.md)
+- [Uninstall](./uninstall/tools-android-studio-uninstall.md)

@@ -32,3 +32,4 @@ $ brew --version
 ## Navigation
 
 - [Install](./install/tools-homebrew-install.md)
+- [Uninstall](./uninstall/tools-homebrew-uninstall.md)

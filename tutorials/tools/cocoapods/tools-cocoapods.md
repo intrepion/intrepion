@@ -32,3 +32,4 @@ $ pod --version
 ## Navigation
 
 - [Install](./install/tools-cocoapods-install.md)
+- [Uninstall](./uninstall/tools-cocoapods-uninstall.md)

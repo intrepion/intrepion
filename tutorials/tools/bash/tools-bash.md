@@ -37,3 +37,4 @@ There is NO WARRANTY, to the extent permitted by law.
 ## Navigation
 
 - [Install](./install/tools-bash-install.md)
+- [Uninstall](./uninstall/tools-bash-uninstall.md)

@@ -39,3 +39,4 @@ Tools • Dart 3.12.1 • DevTools 2.57.0
 ## Navigation
 
 - [Install](./install/tools-flutter-install.md)
+- [Uninstall](./uninstall/tools-flutter-uninstall.md)

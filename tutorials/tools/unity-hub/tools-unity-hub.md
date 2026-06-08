@@ -33,3 +33,4 @@ kMDItemVersion = "3.18.0"
 ## Navigation
 
 - [Install](./install/tools-unity-hub-install.md)
+- [Uninstall](./uninstall/tools-unity-hub-uninstall.md)

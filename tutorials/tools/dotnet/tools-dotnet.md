@@ -40,3 +40,4 @@ $ dotnet --version
 ## Navigation
 
 - [Install](./install/tools-dotnet-install.md)
+- [Uninstall](./uninstall/tools-dotnet-uninstall.md)

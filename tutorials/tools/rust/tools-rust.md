@@ -38,3 +38,4 @@ rustfmt 1.9.0-stable (ac68faa20c 2026-05-25)
 ## Navigation
 
 - [Install](./install/tools-rust-install.md)
+- [Uninstall](./uninstall/tools-rust-uninstall.md)
