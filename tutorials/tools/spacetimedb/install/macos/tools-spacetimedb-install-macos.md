@@ -2,6 +2,10 @@
 
 # SpacetimeDB Install macOS
 
+## Requirements
+
+- [Bash](../../../bash/install/macos/tools-bash-install-macos.md)
+
 ## Install
 
 ```bash
