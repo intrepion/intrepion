@@ -8,6 +8,7 @@
 - [.NET](./dotnet/tools-dotnet.md)
 - [Flutter](./flutter/tools-flutter.md)
 - [git](./git/tools-git.md)
+- [Godot](./godot/tools-godot.md)
 - [Homebrew](./homebrew/tools-homebrew.md)
 - [just](./just/tools-just.md)
 - [Neovim](./neovim/tools-neovim.md)
