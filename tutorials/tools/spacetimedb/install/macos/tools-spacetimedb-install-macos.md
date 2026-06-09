@@ -5,6 +5,7 @@
 ## Requirements
 
 - [Bash](../../../bash/install/macos/tools-bash-install-macos.md)
+- [Rust](../../../rust/install/macos/tools-rust-install-macos.md)
 
 ## Install
 

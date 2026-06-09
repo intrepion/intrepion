@@ -18,6 +18,12 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 rustup update
 ```
 
+## Install WebAssembly Target
+
+```bash
+rustup target add wasm32-unknown-unknown
+```
+
 ## Check Location
 
 ```bash
@@ -35,4 +41,16 @@ $ which rustc
 /Users/oliverforral/.cargo/bin/rustc
 $ which rustfmt
 /Users/oliverforral/.cargo/bin/rustfmt
+```
+
+## Check Targets
+
+```bash
+rustup target list --installed
+```
+
+should include
+
+```text
+wasm32-unknown-unknown
 ```
