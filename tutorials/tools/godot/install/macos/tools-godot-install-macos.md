@@ -30,16 +30,3 @@ should be something like
 $ ls /Applications/Godot.app
 Contents
 ```
-
-## Check Version
-
-```bash
-/Applications/Godot.app/Contents/MacOS/Godot --version
-```
-
-should be something like
-
-```text
-$ /Applications/Godot.app/Contents/MacOS/Godot --version
-4.6.3.stable.official
-```
