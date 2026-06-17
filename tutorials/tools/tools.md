@@ -11,6 +11,7 @@
 - [Godot](./godot/tools-godot.md)
 - [Homebrew](./homebrew/tools-homebrew.md)
 - [just](./just/tools-just.md)
+- [llama.cpp](./llama-cpp/tools-llama-cpp.md)
 - [Neovim](./neovim/tools-neovim.md)
 - [nvm](./nvm/tools-nvm.md)
 - [Pi](./pi/tools-pi.md)
