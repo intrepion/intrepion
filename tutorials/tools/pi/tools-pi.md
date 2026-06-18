@@ -20,12 +20,12 @@ should be something like
 
 ```text
 $ pi --version
-0.79.5
+0.79.7
 ```
 
 ### Current
 
-- v0.79.5 (Tue Jun 16 19:54:23 2026 +0200)
+- v0.79.7 (Thu Jun 18 18:22:07 2026 +0200)
 
 ## Navigation
 
