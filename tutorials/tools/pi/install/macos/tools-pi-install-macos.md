@@ -11,7 +11,7 @@ curl -fsSL https://pi.dev/install.sh | sh
 ## Update
 
 ```bash
-curl -fsSL https://pi.dev/install.sh | sh
+pi update
 ```
 
 ## Check Location
