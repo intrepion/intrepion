@@ -1,6 +1,6 @@
-[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [Hugging Face Hub](../../tools-huggingface-hub.md) > [Install](../tools-huggingface-hub-install.md) > macOS
+[Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [HF CLI](../../tools-hf-cli.md) > [Install](../tools-hf-cli-install.md) > macOS
 
-# Tools Hugging Face Hub Install macOS
+# Tools HF CLI Install macOS
 
 ## Requirements
 
