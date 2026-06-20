@@ -27,13 +27,11 @@ cd cli
 
 ```bash
 touch src/main.rs
-vi src/main.rs
-```
-
-```rust
-fn main() {
-    println!("{}", cli::hello_world());
-}
+printf '%s\n' \
+  'fn main() {' \
+  '    println!("{}", cli::hello_world());' \
+  '}' \
+  | tee src/main.rs > /dev/null
 ```
 
 ### Add CLI test
@@ -41,22 +39,20 @@ fn main() {
 ```bash
 mkdir -p tests
 touch tests/cli.rs
-vi tests/cli.rs
-```
-
-```rust
-use std::process::Command;
-
-#[test]
-fn prints_hello_world() {
-    let output = Command::new(env!("CARGO_BIN_EXE_cli"))
-        .output()
-        .expect("failed to run cli");
-
-    assert!(output.status.success());
-    assert_eq!(String::from_utf8_lossy(&output.stdout), "Hello, world!\n");
-    assert_eq!(String::from_utf8_lossy(&output.stderr), "");
-}
+printf '%s\n' \
+  'use std::process::Command;' \
+  '' \
+  '#[test]' \
+  'fn prints_hello_world() {' \
+  '    let output = Command::new(env!("CARGO_BIN_EXE_cli"))' \
+  '        .output()' \
+  '        .expect("failed to run cli");' \
+  '' \
+  '    assert!(output.status.success());' \
+  '    assert_eq!(String::from_utf8_lossy(&output.stdout), "Hello, world!\n");' \
+  '    assert_eq!(String::from_utf8_lossy(&output.stderr), "");' \
+  '}' \
+  | tee tests/cli.rs > /dev/null
 ```
 
 ### Check if builds
