@@ -28,6 +28,10 @@ built with AppleClang 21.0.0.21000099 for Darwin arm64
 
 - b9660 (Tue Jun 16 11:52:38 2026 +0200)
 
+### Previous
+
+none
+
 ## Navigation
 
 - [Install](./install/tools-llama-cpp-install.md)

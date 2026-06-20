@@ -26,6 +26,10 @@ git-xet 0.2.1
 
 - git-xet-v0.2.1 (Thu Feb 12 15:45:34 2026 -0800)
 
+### Previous
+
+none
+
 ## Navigation
 
 - [Install](./install/tools-git-xet-install.md)

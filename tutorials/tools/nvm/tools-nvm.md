@@ -18,16 +18,16 @@ should be something like
 
 ```text
 $ nvm --version
-0.40.4
+0.40.5
 ```
 
 ### Current
 
-- v0.40.4 (Thu Jan 29 14:12:03 2026 -0800)
+- v0.40.5 (Thu Jun 4 09:33:05 2026 -0700)
 
 ### Previous
 
-- v0.39.7 (Tue Dec 5 21:50:27 2023 -0800)
+none
 
 ## Navigation
 

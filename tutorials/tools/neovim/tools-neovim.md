@@ -31,7 +31,7 @@ Run "nvim -V1 -v" for more info
 
 ### Previous
 
-- v0.11.7 (Sat Mar 28 17:51:08 2026 +0100)
+none
 
 ## Navigation
 

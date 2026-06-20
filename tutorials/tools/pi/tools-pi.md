@@ -27,6 +27,10 @@ $ pi --version
 
 - v0.79.7 (Thu Jun 18 18:22:07 2026 +0200)
 
+### Previous
+
+none
+
 ## Navigation
 
 - [Install](./install/tools-pi-install.md)
