@@ -1,11 +1,10 @@
 [Tutorials](../../../../tutorials.md) > [Tools](../../../tools.md) > [SpacetimeDB](../../tools-spacetimedb.md) > [Install](../tools-spacetimedb-install.md) > macOS
 
-# SpacetimeDB Install macOS
+# Tools SpacetimeDB Install macOS
 
 ## Requirements
 
 - [Bash](../../../bash/install/macos/tools-bash-install-macos.md)
-- [Rust](../../../rust/install/macos/tools-rust-install-macos.md)
 
 ## Install
 

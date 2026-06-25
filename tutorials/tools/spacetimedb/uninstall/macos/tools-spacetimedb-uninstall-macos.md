@@ -6,6 +6,7 @@
 
 ```bash
 rm -f ~/.local/bin/spacetime
+rm -rf ~/.local/share/spacetime
 ```
 
 ## Remove User Data

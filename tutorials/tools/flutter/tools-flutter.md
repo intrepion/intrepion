@@ -20,17 +20,17 @@ should be something like
 
 ```text
 $ dart --version
-Dart SDK version: 3.12.1 (stable) (Tue May 26 01:02:21 2026 -0700) on "macos_arm64"
-$ flutter --version
-Flutter 3.44.1 • channel stable • https://github.com/flutter/flutter.git
-Framework • revision 924134a44c (6 days ago) • 2026-05-29 12:13:22 -0400
-Engine • hash 39b1f7043775b9578bbb26a1676e79c4e31c8b5e (revision c416acfeb8) (7 days ago) • 2026-05-27 20:19:31.000Z
-Tools • Dart 3.12.1 • DevTools 2.57.0
+flutter --version
+Dart SDK version: 3.12.2 (stable) (Tue Jun 9 01:11:39 2026 -0700) on "macos_arm64"
+Flutter 3.44.3 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision e1fd963c6f (5 days ago) • 2026-06-18 14:59:18 -0700
+Engine • hash 97bcd50733ba183d436566477a85414db19fdb97 (revision a4ce257c68) (5 days ago) • 2026-06-18 17:14:12.000Z
+Tools • Dart 3.12.2 • DevTools 2.57.0
 ```
 
 ### Current
 
-- 3.44.1 (Fri May 29 12:13:22 2026 -0400)
+- 3.44.3 (Thu Jun 18 14:59:18 2026 -0700)
 
 ### Previous
 
