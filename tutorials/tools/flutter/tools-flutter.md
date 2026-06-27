@@ -22,15 +22,15 @@ should be something like
 $ dart --version
 flutter --version
 Dart SDK version: 3.12.2 (stable) (Tue Jun 9 01:11:39 2026 -0700) on "macos_arm64"
-Flutter 3.44.3 • channel stable • https://github.com/flutter/flutter.git
-Framework • revision e1fd963c6f (5 days ago) • 2026-06-18 14:59:18 -0700
-Engine • hash 97bcd50733ba183d436566477a85414db19fdb97 (revision a4ce257c68) (5 days ago) • 2026-06-18 17:14:12.000Z
+Flutter 3.44.4 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision ad70ec4617 (2 days ago) • 2026-06-24 11:07:06 -0700
+Engine • hash 700aebeca4c0e610f109a3979ee3e71b69d666bc (revision a10d8ac38d) (3 days ago) • 2026-06-23 23:09:55.000Z
 Tools • Dart 3.12.2 • DevTools 2.57.0
 ```
 
 ### Current
 
-- 3.44.3 (Thu Jun 18 14:59:18 2026 -0700)
+- 3.44.4 (Wed Jun 24 11:07:06 2026 -0700)
 
 ### Previous
 
