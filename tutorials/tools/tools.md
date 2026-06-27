@@ -4,6 +4,7 @@
 
 - [Android Studio](./android-studio/tools-android-studio.md)
 - [Bash](./bash/tools-bash.md)
+- [Buf CLI](./buf-cli/tools-buf-cli.md)
 - [CocoaPods](./cocoapods/tools-cocoapods.md)
 - [.NET](./dotnet/tools-dotnet.md)
 - [Flutter](./flutter/tools-flutter.md)
