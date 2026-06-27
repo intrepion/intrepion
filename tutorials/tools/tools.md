@@ -18,6 +18,7 @@
 - [Neovim](./neovim/tools-neovim.md)
 - [nvm](./nvm/tools-nvm.md)
 - [Pi](./pi/tools-pi.md)
+- [PostgreSQL](./postgresql/tools-postgresql.md)
 - [Rust](./rust/tools-rust.md)
 - [SpacetimeDB](./spacetimedb/tools-spacetimedb.md)
 - [Unity Hub](./unity-hub/tools-unity-hub.md)
