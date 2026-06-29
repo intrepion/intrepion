@@ -5,3 +5,4 @@
 ## Navigation
 
 - [.gitignore](./gitignore/code-common-gitignore.md)
+- [.license](./license/code-common-license.md)
