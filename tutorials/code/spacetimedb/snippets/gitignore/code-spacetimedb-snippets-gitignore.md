@@ -8,11 +8,14 @@
 touch .gitignore
 printf '%s\n' \
   '' \
-  '#### BEGIN SpaceTimeDB' \
+  '#### BEGIN SpacetimeDB' \
   '' \
   '# generated client bindings' \
   'src/module_bindings/' \
   '' \
-  '#### END SpaceTimeDB' \
+  '#### END SpacetimeDB' \
   | tee -a .gitignore > /dev/null
+git add .gitignore
+git commit --message "Added SpacetimeDB gitignores"
+git push
 ```

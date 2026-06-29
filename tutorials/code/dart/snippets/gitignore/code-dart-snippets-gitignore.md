@@ -9,4 +9,7 @@ touch .gitignore
 printf '\n#### BEGIN https://raw.githubusercontent.com/github/gitignore/refs/heads/main/Dart.gitignore\n\n' >> .gitignore
 curl -sSL https://raw.githubusercontent.com/github/gitignore/refs/heads/main/Dart.gitignore >> .gitignore
 printf '\n#### END https://raw.githubusercontent.com/github/gitignore/refs/heads/main/Dart.gitignore\n' >> .gitignore
+git add .gitignore
+git commit --message "Added Dart gitignores."
+git push
 ```

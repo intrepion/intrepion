@@ -15,4 +15,7 @@ printf '%s\n' \
   '' \
   '#### END Astro' \
   | tee -a .gitignore > /dev/null
+git add .gitignore
+git commit --message "Added Astro gitignores."
+git push
 ```

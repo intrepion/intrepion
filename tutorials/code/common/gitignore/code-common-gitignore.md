@@ -15,4 +15,7 @@ printf '\n#### END https://raw.githubusercontent.com/github/gitignore/refs/heads
 printf '\n#### BEGIN https://raw.githubusercontent.com/github/gitignore/refs/heads/main/Global/macOS.gitignore\n\n' >> .gitignore
 curl -sSL https://raw.githubusercontent.com/github/gitignore/refs/heads/main/Global/macOS.gitignore >> .gitignore
 printf '\n#### END https://raw.githubusercontent.com/github/gitignore/refs/heads/main/Global/macOS.gitignore\n' >> .gitignore
+git add .gitignore
+git commit --message "Added operating system gitignores."
+git push
 ```
