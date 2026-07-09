@@ -1,4 +1,4 @@
-[Tutorials](../../../tutorials.md) > [Code](../../code.md) > [Common](../code-common.md) > LICENSE
+[Tutorials](../../../tutorials.md) > [Code](../../code.md) > [Common](../code-common.md) > Code Common LICENSE
 
 # Code Common LICENSE
 
