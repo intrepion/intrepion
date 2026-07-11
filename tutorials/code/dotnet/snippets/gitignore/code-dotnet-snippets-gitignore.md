@@ -1,6 +1,6 @@
-[Tutorials](../../../../tutorials.md) > [Code](../../../code.md) > [C#](../../code-csharp.md) > [Snippets](../code-csharp-snippets.md) > .gitignore
+[Tutorials](../../../../tutorials.md) > [Code](../../../code.md) > [.NET](../../code-dotnet.md) > [Snippets](../code-dotnet-snippets.md) > .gitignore
 
-# Code C# Snippets .gitignore
+# Code .NET Snippets .gitignore
 
 ## Add .gitignore file
 
