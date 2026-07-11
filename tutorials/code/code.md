@@ -4,6 +4,7 @@ This section contains tutorials for various programming languages and frameworks
 
 - [C#](./csharp/code-csharp.md)
 - [.NET](./dotnet/code-dotnet.md)
+- [Composer](./composer/code-composer.md)
 - [Go](./go/code-go.md)
 - [Dart](./dart/code-dart.md)
 - [Rust](./rust/code-rust.md)
