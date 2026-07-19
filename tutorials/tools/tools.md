@@ -27,4 +27,5 @@
 - [VSCodium](./vscodium/tools-vscodium.md)
 - [Visual Studio Code](./visual-studio-code/tools-visual-studio-code.md)
 - [WezTerm](./wezterm/tools-wezterm.md)
+- [wrangler](./wrangler/tools-wrangler.md)
 - [Xcode Command Line Tools](./xcode-command-line-tools/tools-xcode-command-line-tools.md)
