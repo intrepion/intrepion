@@ -22,6 +22,7 @@
 - [Pi](./pi/tools-pi.md)
 - [PostgreSQL](./postgresql/tools-postgresql.md)
 - [Protocol Buffer Compiler](./protocol-buffer-compiler/tools-protocol-buffer-compiler.md)
+- [Python](./python/tools-python.md)
 - [Rust](./rust/tools-rust.md)
 - [SpacetimeDB](./spacetimedb/tools-spacetimedb.md)
 - [Unity Hub](./unity-hub/tools-unity-hub.md)
