@@ -8,6 +8,7 @@
 - [CocoaPods](./cocoapods/tools-cocoapods.md)
 - [.NET](./dotnet/tools-dotnet.md)
 - [Flutter](./flutter/tools-flutter.md)
+- [firebase](./firebase/tools-firebase.md)
 - [gcloud](./gcloud/tools-gcloud.md)
 - [git](./git/tools-git.md)
 - [Git LFS](./git-lfs/tools-git-lfs.md)
