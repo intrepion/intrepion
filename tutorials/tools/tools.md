@@ -17,6 +17,7 @@
 - [HF CLI](./hf-cli/tools-hf-cli.md)
 - [Homebrew](./homebrew/tools-homebrew.md)
 - [just](./just/tools-just.md)
+- [Kimi Code](./kimi-code/tools-kimi-code.md)
 - [llama.cpp](./llama-cpp/tools-llama-cpp.md)
 - [Neovim](./neovim/tools-neovim.md)
 - [nvm](./nvm/tools-nvm.md)
