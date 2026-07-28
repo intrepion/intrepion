@@ -33,3 +33,4 @@
 - [WezTerm](./wezterm/tools-wezterm.md)
 - [wrangler](./wrangler/tools-wrangler.md)
 - [Xcode Command Line Tools](./xcode-command-line-tools/tools-xcode-command-line-tools.md)
+- [Zed](./zed/tools-zed.md)
